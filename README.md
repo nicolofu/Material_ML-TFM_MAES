@@ -3,7 +3,7 @@ Trabajo de Fin de Máster del Máster en Profesorado de Enseñanza Secundaria Ob
 
 Este repositorio contiene el trabajo de Fin de Máster, así como archivos auxiliares para las tareas propuestas e imprimibles.
 
-<center>
+
 | Tarea  | Materiales del repositorio  |
 |:------------- |:---------------| 
 | Tarea 6.2         | `clasificacion1.pdf` <br> `clasificacion2.pdf` <br> `clasificacion1.ggb` <br> `clasificacion2.ggb`  | 
@@ -15,7 +15,8 @@ Este repositorio contiene el trabajo de Fin de Máster, así como archivos auxil
 | Tarea 7.4         | `cara.pdf`     | 
 | Tarea 9.3         | `regresion.wxmx` <br> `regresionDocente.wxmx` <br> `regresionSage.ipynb` <br> `regresionSageDocente.ipynb`  | 
 | Tarea 10.3        | `descensoGradiente.wxmx` <br> `descensoGradiente.wxmx` <br> `descensoGradienteSage.ipynb` <br> `descensoGradienteSageDocente.ipynb` <br> `descensoGradientePython.ipynb` <br> `descensoGradientePythonDocente.ipynb` | 
-</center>
+
+
 
 ## Algunas aclaraciones sobre los materiales 
 ### Tareas 6.2 y 6.3
